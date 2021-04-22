@@ -164,17 +164,21 @@ ul li {
       padding: 0;
   }
 
-.leftbutton p {
-  position: absolute;
-  left:
+.table-ul {
+  background-color: #e4fcff;
+  display: table;
+  table-layout: fixed;
+  text-align: center;
+  width: 100%;
 }
-
-.centerbutton p {
-  position: absolute;
-  align="center"
+.table-ul li {
+  display: table-cell;
+  vertical-align: middle;
 }
-
-.rightbutton p {
-  position: absolute;
-  align="right"
+.table-ul li a {
+  color: #fff;
+  display: block;
+  font-size: 12px;
+  text-decoration: none;
+  padding: 10px 0;
 }
