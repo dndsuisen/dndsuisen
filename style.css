@@ -31,8 +31,8 @@ box-shadow: 4px 6px 4px #e7cf7e;
   .area {
     width: 900px;
     margin-top: 10pt;
-    margin-left:10pt;
-    margin-right: 10pt;
+    margin-left: auto;
+    margin-right: auto;
     flex-wrap: wrap;
     display: flex;
     background-color: #ffffcc;
