@@ -1,7 +1,7 @@
 body {
-  background: -moz-linear-gradient(top, #FFC778, #FFF);
-  background: -webkit-linear-gradient(top, #FFC778, #FFF);
-  background: linear-gradient(to bottom, #FFC778, #FFF);
+  background: -moz-linear-gradient(top, #FFCC66, #FFF);
+  background: -webkit-linear-gradient(top, #FFCC66, #FFF);
+  background: linear-gradient(to bottom, #FFCC66, #FFF);
     margin-right: auto;
     margin-left: auto;
     padding-top: 20pt;
@@ -9,18 +9,19 @@ body {
     padding-right: 20pt;
     padding-bottom: 10pt;
     width: 900px;
-    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic',Tsukushi A Round Gothic
   }
 
   .h1 {
     color: #7ea73c;
-    text-align:center;
-font-family:Arial Black ;
+    text-align: center;
+font-family:Tsukushi A Round Gothic ;
 background-color: #fffdf2;
 box-shadow: 4px 6px 4px #e7cf7e;
   }
 
   p.style1{
+      font-family:YuGothic
       padding-left: 15pt;
       padding-right: 15pt;
       font-size: 17px;
@@ -30,11 +31,11 @@ box-shadow: 4px 6px 4px #e7cf7e;
   .area {
     width: 900px;
     margin-top: 10pt;
-    margin-left:auto;
-    margin-right: auto;
+    margin-left:10pt;
+    margin-right: 10pt;
     flex-wrap: wrap;
     display: flex;
-    background-color: #fffdf2;
+    background-color: #ffffcc;
     box-shadow: 4px 6px 4px #e7cf7e;
   }
    
