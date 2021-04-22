@@ -147,6 +147,8 @@ ul li {
 
     .box10 {
       display: flex;
+      align-items: center;
+      justyfy-contents: center;
       padding: 0.5em 1em;
       margin: 2em 1em;
       spacing: 20pt;
