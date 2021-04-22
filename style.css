@@ -160,3 +160,22 @@ ul li {
       margin: 0; 
       padding: 0;
   }
+
+.leftbutton {
+  position: relative;
+  top: 75px;
+  left: 75px
+}
+
+.centerbutton {
+  position: relative;
+  top: 75px;
+  left: 50%;
+  right: 50%
+}
+
+.rightbutton {
+  position: relative;
+  top: 75px;
+  right: 75px
+}
