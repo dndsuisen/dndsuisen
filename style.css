@@ -16,16 +16,20 @@ body {
     color: #7ea73c;
     text-align: center;
 font-family:Tsukushi A Round Gothic ;
-background-color: #fffdf2;
+background-color: #ffffcc;
 box-shadow: 4px 6px 4px #e7cf7e;
   }
 
   p.style1{
-      font-family:YuGothic
+    color: #000000;
+    text-align: center;
+font-family:YuGothic
+  }
+        
+  p.style2{
       padding-left: 15pt;
       padding-right: 15pt;
-      font-size: 17px;
-      
+      font-size: 17px; 
     }
 
   .area {
