@@ -161,20 +161,20 @@ ul li {
       padding: 0;
   }
 
-.leftbutton {
+.leftbutton p {
   position: relative;
   top: 75px;
   left: 75px
 }
 
-.centerbutton {
+.centerbutton p {
   position: relative;
   top: 75px;
   left: 50%;
   right: 50%
 }
 
-.rightbutton {
+.rightbutton p {
   position: relative;
   top: 75px;
   right: 75px
