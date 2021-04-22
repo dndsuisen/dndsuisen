@@ -96,9 +96,8 @@ h2{
 
 h3{
     padding-left: 20pt;
-    padding-top: 10pt;
+    padding-top: 20pt;
     text-align: center
-      font-size: 20px
 }
 
 
@@ -151,6 +150,7 @@ ul li {
       display: inline;
       padding: 0.5em 1em;
       margin: 2em 1em;
+      box-spacing: 20pt;
       color: #00BCD4;
       background: #e4fcff;/*背景色*/
       border-top: solid 6px #1dc1d6;
@@ -164,7 +164,7 @@ ul li {
 
 .leftbutton p {
   position: absolute;
-  align="left"
+  left:
 }
 
 .centerbutton p {
