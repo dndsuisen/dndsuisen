@@ -123,10 +123,10 @@ ul li {
 
 .area1 {
     width: 900px;
-    margin-top: 15pt;
-    margin-left: 15pt;
-    margin-right: 15pt;
-    margin-bottom: 15pt;
+    margin-top: 10pt;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
     padding-bottom: 10pt;
     flex-wrap: wrap;
     background-color: #ffffcc;
